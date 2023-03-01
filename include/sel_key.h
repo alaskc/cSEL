@@ -1,3 +1,5 @@
+// Contains key data.
+
 #include "c_header.h"
 
 #define __KEY_PRIVATE_ sizeof(char*) + 24 / __componet_sel_header
